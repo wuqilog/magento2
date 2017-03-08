@@ -1,0 +1,4 @@
+"%s - %s","%s - %s"
+"Some non-translated value for Magento_Catalog","Magenta_Catalog中一些没有翻译的文本"
+"Another non-translated value for Magento_Catalog","Magenta_Catalog中其他一些没有翻译的文本"
+"Text with different translation on different modules","不同模块的不同翻译的文本"
